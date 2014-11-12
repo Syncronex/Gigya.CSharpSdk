@@ -5,12 +5,12 @@
     <version>1.0.0</version>
     <authors>Syncronex</authors>
     <owners />
-    <id>Syncronex.Gigya.GSCSharpSDK</id>
+    <id>Gigya.CSharpSdk</id>
     <title />
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Adds a reference to the gigya c# SDK to your project. see: http://developers.gigya.com/030_Server_SDKs/.NET</description>
-    <projectUrl>https://github.com/Syncronex/Syncronex.Gigya.GSCSharpSDK</projectUrl>
+    <projectUrl>https://github.com/Syncronex/Gigya.CSharpSdk</projectUrl>
     <releaseNotes></releaseNotes>
     <tags>Gigya GSCSharpSDK Gigya c# Sdk</tags>
   </metadata>
