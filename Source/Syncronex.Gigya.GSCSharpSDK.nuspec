@@ -2,7 +2,7 @@
 
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
-    <version>0.0.0</version>
+    <version>1.0.0</version>
     <authors>Syncronex</authors>
     <owners />
     <id>Syncronex.Gigya.GSCSharpSDK</id>
@@ -12,7 +12,7 @@
     <description>Adds a reference to the gigya c# SDK to your project. see: http://developers.gigya.com/030_Server_SDKs/.NET</description>
     <projectUrl>https://github.com/Syncronex/Syncronex.Gigya.GSCSharpSDK</projectUrl>
     <releaseNotes></releaseNotes>
-	<tags>Gigya GSCSharpSDK Gigya c# Sdk</tags>
+    <tags>Gigya GSCSharpSDK Gigya c# Sdk</tags>
   </metadata>
   <files>
 	<file src="GSCSharpSDK.dll" target="lib" />
